@@ -8,7 +8,7 @@ LOCATION: Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d
 first export your folder to save the old nv_modes  
 ![1](https://raw.githubusercontent.com/sunurnuts/nv_modes/main/export.png)  
 # EDIT:  
-i now use ```{*}1920x1080=1000;``` after manually testing settings this felt best  
+i now use ```{*}1920x1080x32=1000;``` after manually testing settings this felt best  
 
 ignore values below will keep for purposes
 
